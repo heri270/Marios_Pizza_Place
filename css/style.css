@@ -1,7 +1,22 @@
 body {
-  background-color: blue; }
+  background-image: url(../img/wooden-planks.jpg); }
 
 footer {
-  background-color: red; }
+  text-align: center; }
+
+.container {
+  margin: 0 auto;
+  margin-top: 80px;
+  margin-bottom: 25px;
+  padding: 30px;
+  border-radius: 5px;
+  text-align: center; }
+
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0.4) !important; }
+
+#front-picture {
+  width: 80em;
+  height: 45em; }
 
 /*# sourceMappingURL=style.css.map */
