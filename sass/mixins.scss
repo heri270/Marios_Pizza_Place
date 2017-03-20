@@ -1,6 +1,5 @@
-@mixin fontStack($color: white) {
+@mixin fontStack($size: '14px') {
 	font: {
-		color: $color;
 		//family: $family;
 		//size: $size;
 		//weight: $weight; //600 too much for weight
