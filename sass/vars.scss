@@ -1,2 +1,11 @@
 $bodyBgImage: url(../img/wooden-planks.jpg);
+$panelBgImage: url(../img/dark-granit.jpg);
+
 $boxTransparent: rgba(0, 0, 0, 0.4); //255 for white
+
+//Colors
+$lightColor: whitesmoke;
+
+$primaryColor: #993300;
+$secondColor: yellow;
+$mixedPrimSecColors: mix($secondColor, $primaryColor, 12%);
