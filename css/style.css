@@ -51,21 +51,25 @@ body {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
 
 /*.thumbnail h4, .thumbnail p {
-	position: right;
+	position: right !important;
 }*/
-.text-box {
+.content-box {
   background-color: rgba(0, 0, 0, 0.4);
-  color: whitesmoke;
-  padding: 10px;
+  padding: 15px;
   border-radius: 5px;
   margin: 15px; }
 
-.text-box h1 {
-  text-shadow: 1px 1px grey; }
+.content-box h1 {
+  text-shadow: 1px 1px grey;
+  color: whitesmoke; }
 
-.text-box p {
+.content-box p {
+  color: whitesmoke; }
+
+.content-text {
+  background-color: red;
   font-size: 14px;
-  margin: 30px; }
+  padding: 20px; }
 
 .panel-footer.panel-custom {
   background-image: url(../img/dark-granit.jpg);
