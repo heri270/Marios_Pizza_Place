@@ -66,11 +66,11 @@ body {
 .content-box p {
   color: whitesmoke; }
 
-.content-text {
-  background-color: red;
-  font-size: 14px;
-  padding: 20px; }
-
+/*.content-text {
+	background-color: red;
+	font-size: 14px;
+	padding: 20px;
+}*/
 .panel-footer.panel-custom {
   background-image: url(../img/dark-granit.jpg);
   text-align: center;
